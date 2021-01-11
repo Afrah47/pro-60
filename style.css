@@ -1,0 +1,122 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    color: deeppink;
+    font-family: chiller;
+}
+
+#Hobby {
+    background: linear-gradient(#00ebfc 0%, #6100fc 100%);
+}
+
+#Home {
+    background: linear-gradient(#ff0076 0%, #7842fb 100%)
+}
+
+#Apps {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(#fab4d8 0%, #b4face 100%)
+}
+
+#Games {
+    width: 100%;
+    Height: 300px;
+    background: linear-gradient(#02fcde 0%, #0318fc 100%);
+}
+
+.Sprite {
+    transition: transform .2s;
+    background: linear-gradient(#a1fc03 0%, #fc2403 100%);
+}
+
+#Chatbot {
+    background: linear-gradient(#fa7faa 0%, #fa91e7 100%);
+    height: 800px;
+}
+
+.Sprite:hover {
+    transform: scale(0.9);
+}
+
+.Menu {
+    list-style: none;
+    position: sticky;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+#Favr8 {
+    width: 100%;
+    height: 550px;
+    background: linear-gradient(#03c2fc 0%, #7ffac1 100%);
+}
+
+.p {
+    font-family: Brush Script MT;
+    font-size: 25px;
+}
+
+#Pics {
+    background-color: hotpink;
+}
+
+#Vids {
+    background-color: lightpink;
+    height: 800px;
+}
+
+.Headings {
+    color: darkcyan;
+    font-family: Freestyle Script;
+    font-size: 35px;
+}
+
+.lnk {
+    color: blue !important;
+}
+
+.Links {
+    float: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: MV Boli;
+    display: inline;
+    font-size: 20;
+    color: blue !important;
+}
+
+#Inspire {
+    background-color: aquamarine;
+}
+
+#Contacts {
+    background-color: mediumaquamarine;
+}
+
+#wmf {
+    background: linear-gradient(#FF0000 0%, #FFFF00 10%, #FFA500 20%, #00FF00 30%, #006400 40%, #03a5fc 50%, #0000FF 60%, #8c00ff 70%, #c862f0 80%, #f702c6 90%, #ff006a 100%);
+}
+
+#wifv {
+    background: linear-gradient(#ff85ba 50%, #ff00bb 100%);
+}
